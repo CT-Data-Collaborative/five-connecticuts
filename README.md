@@ -1,4 +1,4 @@
-# five-connecticuts
+# The Five Connecticuts
 5 Connecticuts Crosswalk
 
 The Five Connecticuts is a system developed by the University of Connecticut which uses socioeconomic trends such as poverty rate, household income, and more to categorize towns into five categories — Rural, Suburban, Urban Core, Urban Periphery, and Wealthy.
